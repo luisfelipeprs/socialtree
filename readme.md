@@ -4,7 +4,7 @@
 
 <p><a href="https://app.rocketseat.com.br">Rocketseat</a> Social Tree Project. Discover course challenge 2nd module</p>
 
-<img src="https://cdn.discordapp.com/attachments/869279915994939402/1068622944219168929/image.png" alt="mobile-image">
+<img src="./img/mobile.png" alt="mobile-image">
 
 ## Techs
 
